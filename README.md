@@ -12,19 +12,18 @@ The SoftDelete feature is applied to the `Task` model, and the application provi
 - [English](README.md)
 
 ## Result
-### Start Web Service (Python-Flask) and MongoDB
-![Alt text](docs/up.PNG) 
 ### Home
-![Alt text](docs/index.PNG) 
+![Alt text](docs/home.PNG) 
+### Database
+![Alt text](docs/bd.PNG) 
+### Delete 
+![Alt text](docs/softdelete.PNG) 
+### Soft-Delete (DB)
+![Alt text](docs/persis.PNG) 
 ### Add
-![Alt text](docs/eliminar.PNG)
-### Add Data
-![Alt text](docs/create.PNG) 
-### List Data in Docker
-![Alt text](docs/add_docker.PNG) 
-### Update
-![Alt text](docs/update.PNG) 
-
+![Alt text](docs/add.PNG) 
+### Add
+![Alt text](docs/add%20softdelete.PNG) 
 
 ## Prerequisites
 
@@ -39,7 +38,7 @@ The SoftDelete feature is applied to the `Task` model, and the application provi
 
     ```bash
     git clone https://github.com/Anyel-ec/Flask-MySQL-Docker-SoftDelete
-    cd tuproyecto
+    cd Flask-MySQL-Docker-SoftDelete
     ```
 
 2. Run the Flask App Locally:
